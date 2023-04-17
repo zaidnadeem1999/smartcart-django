@@ -1,0 +1,1 @@
+# smartart-djnago
